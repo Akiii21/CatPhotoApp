@@ -14,6 +14,7 @@ The HTML code provided here represents the structure of a simple web page that s
 - A form for submitting a cat photo
 
 This code can serve as a starting point for a web page and can be used as a learning resource for understanding basic HTML structure and elements.
+
 Learning HTML by building a Cat Photo App in [freeCodeCamp.org](https://www.freecodecamp.org)
 
 
